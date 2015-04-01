@@ -1,0 +1,1 @@
+class { am_tomcats::windows::instance: }
