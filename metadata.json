@@ -4,9 +4,9 @@
   "author": "Aniket Mehta",
   "summary": "Deploy multiple tomcat instances.",
   "license": "Apache 2.0",
-  "source": "https://github.com/aniketmehta/aniketmehta-tomcats",
-  "project_page": "https://github.com/echomike80/aniketmehta-tomcats",
-  "issues_url": "https://github.com/echomike80/aniketmehta-tomcats/issues",
+  "source": "https://github.com/aniketmehta/aniketmehta-am_tomcats",
+  "project_page": "https://github.com/aniketmehta/aniketmehta-am_tomcats",
+  "issues_url": "https://github.com/aniketmehta/aniketmehta-am_tomcats/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
